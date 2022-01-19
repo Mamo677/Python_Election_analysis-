@@ -8,7 +8,7 @@ Calculate the percentage of votes each candidate won.
 Determine the winner of the election based on popular vote.
 After giving you an overview of the election audit tasks, we wants to go over the steps required in detail. Showing you a technique commonly used by programmers to write steps of their code, which is called pseudocode. Pseudocode will make the audit easier to present to nontechnical colleagues and stakeholders.
 How many votes were cast in this congressional election?
-Total votes results 369711
+# Total votes results 369711
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 # County Votes:
 -------------------------
